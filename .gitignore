@@ -1,4 +1,6 @@
+answers.txt
 .coverage
+dist
 *egg-info*
 __pycache__
 .tox
